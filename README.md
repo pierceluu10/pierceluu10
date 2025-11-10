@@ -36,9 +36,6 @@ I'm a first-year Computer Engineering student at the University of Toronto, inte
 
 ### 🌐 Connect With Me
 - Email: **pierceluu10@gmail.com**
-- GitHub: https://github.com/pierceluu10
-- LinkedIn: https://www.linkedin.com/in/pierce-luu
-
 ---
 
 > *“Build things that make life easier — even in small ways.”*
