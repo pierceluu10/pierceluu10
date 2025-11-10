@@ -28,7 +28,6 @@ I'm a first-year Computer Engineering student at the University of Toronto, inte
 
 ### 🌐 Connect With Me
 - Email: **pierceluu10@gmail.com**
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
