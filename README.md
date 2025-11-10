@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header"/>
+</p>
+
 <h1 align="center">Hi! 👋 I'm Pierce Luu</h1>
+
+---
 
 ### 🧠 About Me
 I'm a first-year Computer Engineering student at the University of Toronto, interested in building meaningful tools that help people grow, learn, and stay connected.
@@ -10,9 +14,9 @@ I'm a first-year Computer Engineering student at the University of Toronto, inte
 - 🧪 Diving into machine learning with **PyTorch**
 
 ### 🏗️ Featured Project
-**Questr — Personalized Daily Wellbeing "Quests"**
-> A full-stack web app, built at NewHacks 2025 that
-> Generates daily social, health, and mindfulness tasks tailored to each user.  
+**Questr — Personalized Daily Wellbeing "Quests"**  
+Built at **NewHacks 2025**
+> A full-stack web app that generates daily social, health, and mindfulness tasks tailored to each user.  
 > Uses **Flask**, **SQLite**, **Google Gemini AI**, **Bootstrap**, and **Chart.js**.
 
 ### 🧩 What I Enjoy
@@ -27,7 +31,8 @@ I'm a first-year Computer Engineering student at the University of Toronto, inte
 | Languages | Python • C++ • HTML • CSS |
 | Developer Tools | Git • GitHub • VS Code • STM32CubeIDE |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
+</p>
