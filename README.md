@@ -40,7 +40,8 @@ Built at **NewHacks 2025**
   <img src="https://skillicons.dev/icons?i=git" height="45" />
   <img src="https://skillicons.dev/icons?i=github" height="45" />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/STM32_Logo.svg" height="45" />
+
 </div>
 
 </td></tr></table>
