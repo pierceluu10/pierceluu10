@@ -48,6 +48,6 @@ Built at **NewHacks 2025**
   <img src="https://skillicons.dev/icons?i=embeddedc" height="45" />
 </p>
 
-<p align="center" style="margin-top: -10px;">
+<p align="center" style="margin-top: -40px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=160&section=footer"/>
 </p>
