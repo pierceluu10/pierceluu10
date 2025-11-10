@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi!%20I%27m%20Pierce%20&fontSize=55&fontAlign=51&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi!%20I%27m%20Pierce%20&fontSize=55&fontAlign=51&fontAlignY=38&fontColor=ffffff"/>
 </p>
 
 ### 🧠 About Me
@@ -22,10 +22,11 @@ Built at **NewHacks 2025**
 - Working with small teams where ideas move fast  
 
 ## 💻 Tech Stack
+
 <table><tr><td valign="top" width="50%">
 
 <h4 align="center">Languages</h4>
-<div align="center">
+<div align="center" style="margin-top:-10px;">
   <img src="https://skillicons.dev/icons?i=python" height="45" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" />
   <img src="https://skillicons.dev/icons?i=html" height="45" />
@@ -35,7 +36,7 @@ Built at **NewHacks 2025**
 </td><td valign="top" width="50%">
 
 <h4 align="center">Developer Tools</h4>
-<div align="center">
+<div align="center" style="margin-top:-10px;">
   <img src="https://skillicons.dev/icons?i=git" height="45" />
   <img src="https://skillicons.dev/icons?i=github" height="45" />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" />
@@ -44,10 +45,6 @@ Built at **NewHacks 2025**
 
 </td></tr></table>
 
-<p align="center" style="margin-top: -10px;">
+<p align="center" style="margin-top:-5px;">
   <img src="https://skillicons.dev/icons?i=embeddedc" height="45" />
-</p>
-
-<p align="center" style="margin-top: -40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=160&section=footer"/>
 </p>
