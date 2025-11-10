@@ -10,9 +10,15 @@ I'm a first-year Computer Engineering student at the University of Toronto, inte
 - 🧪 Diving into machine learning with **PyTorch**
 
 ### 🏗️ Featured Project
-**Questr — Personalized Daily Wellbeing Quests**
-> A full-stack web app that generates daily social, health, and mindfulness tasks tailored to each user.  
+**Questr — Personalized Daily Wellbeing "Quests"**
+> A full-stack web app, built at NewHacks 2025 that
+> Generates daily social, health, and mindfulness tasks tailored to each user.  
 > Uses **Flask**, **SQLite**, **Google Gemini AI**, **Bootstrap**, and **Chart.js**.
+
+### 🧩 What I Enjoy
+- Designing clean & intuitive UI elements
+- Turning real-world struggles into useful software
+- Working with small teams where ideas move fast
 
 ### 💻 Tech Stack
 
@@ -20,14 +26,6 @@ I'm a first-year Computer Engineering student at the University of Toronto, inte
 |---------|--------------|
 | Languages | Python • C++ • HTML • CSS |
 | Developer Tools | Git • GitHub • VS Code • STM32CubeIDE |
-
-### 🧩 What I Enjoy
-- Designing clean & intuitive UI elements
-- Turning real-world struggles into useful software
-- Working with small teams where ideas move fast
-
-### 🌐 Connect With Me
-- Email: **pierceluu10@gmail.com**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
