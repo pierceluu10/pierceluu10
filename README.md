@@ -47,7 +47,6 @@ Built at **NewHacks 2025**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=embeddedc" height="50" />
-  <br/><sub>STM32 / Embedded Development</sub>
 </p>
 
 <p align="center">
