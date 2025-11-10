@@ -22,34 +22,32 @@ Built at **NewHacks 2025**
 - Working with small teams where ideas move fast  
 
 ## 💻 Tech Stack
-
 <table><tr><td valign="top" width="50%">
 
-### Languages
+<h4 align="center">Languages</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
 </div>
 
 </td><td valign="top" width="50%">
 
-### Developer Tools
+<h4 align="center">Developer Tools</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="45" />
 </div>
 
 </td></tr></table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=embeddedc" height="50" />
+<p align="center" style="margin-top: -10px;">
+  <img src="https://skillicons.dev/icons?i=embeddedc" height="45" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=footer"/>
+<p align="center" style="margin-top: -40px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=160&section=footer"/>
 </p>
-
