@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <h1 align="center">Hi! 👋 I'm Pierce Luu</h1>
+
 ### 🧠 About Me
 I'm a first-year Computer Engineering student at the University of Toronto, interested in building meaningful tools that help people grow, learn, and stay connected.
 
