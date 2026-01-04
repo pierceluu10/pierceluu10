@@ -9,7 +9,7 @@ I'm a first-year Computer Engineering student at the University of Toronto, inte
 - 📚 Learning more about web development
 - 🧪 Diving into machine learning with **PyTorch**
 
-### 🏗️  Featured Project
+### 🏗️  Projects
 **Questr - Personalized Daily Wellbeing "Quests"**  
 Built at **NewHacks 2025**
 
