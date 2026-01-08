@@ -6,10 +6,10 @@
 I'm a first-year Computer Engineering student at the University of Toronto, interested in building meaningful tools that help people grow, learn, and stay connected.
 
 ### 🚀 What I'm Working On
-- 📚 Learning more about web development
-- 🧪 Diving into machine learning with **PyTorch**
+- Learning more about web development
+- Diving into machine learning with **PyTorch**
 
-### 🏗️  Projects
+### 🏗️ Projects
 **Questr - Personalized Daily Wellbeing "Quests"**  
 Built at **NewHacks 2025**
 
@@ -18,8 +18,8 @@ Built at **NewHacks 2025**
 
 ### 🧩 What I Enjoy Most
 - Designing clean & intuitive UI elements  
-- Turning real-world struggles into useful software  
-- Working with small teams where ideas move fast  
+- Solving real-world problems with software  
+- Collaborating with teams where ideas move fast  
 
 ## 💻 Tech Stack
 
