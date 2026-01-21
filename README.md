@@ -16,11 +16,6 @@ Built at **NewHacks 2025**
 > A full-stack web app that generates daily social, health, and mindfulness tasks tailored to each user.  
 > Uses **Flask**, **SQLite**, **Google Gemini AI**, **Bootstrap**, and **Chart.js**.
 
-### 🧩 What I Enjoy Most
-- Designing clean & intuitive UI elements  
-- Solving real-world problems with software  
-- Collaborating with teams where ideas move fast  
-
 ## 💻 Tech Stack
 
 <table><tr><td valign="top" width="50%">
