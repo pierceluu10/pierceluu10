@@ -3,7 +3,7 @@
 </p>
 
 ### 🧠 About Me
-I'm a first-year Computer Engineering student at the University of Toronto, interested in building meaningful tools that help people grow, learn, and stay connected.
+I'm a first-year Computer Engineering student at the University of Toronto, interested in building meaningful tools that help people in their daily lives
 
 ### 🚀 What I'm Working On
 - Learning more about web development
