@@ -2,21 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi!%20I%27m%20Pierce%20&fontSize=70&fontAlign=51.5&fontAlignY=38&fontColor=ffffff"/>
 </p>
 
-### 🧠 About Me
+### About Me
 I'm a first-year Computer Engineering student at the University of Toronto, interested in building meaningful tools that help people in their daily lives
 
-### 🚀 What I'm Working On
+### What I'm Working On
 - Learning more about web development
 - Diving into machine learning with **PyTorch**
 
-### 🏗️ Projects
-**Questr - Personalized Daily Wellbeing "Quests"**  
-Built at **NewHacks 2025**
-
-> A full-stack web app that generates daily social, health, and mindfulness tasks tailored to each user.  
-> Uses **Flask**, **SQLite**, **Google Gemini AI**, **Bootstrap**, and **Chart.js**.
-
-## 💻 Tech Stack
+## Tech Stack
 
 <table><tr><td valign="top" width="50%">
 
