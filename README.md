@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-110834/Comets-Your-Name-Anime.jpg" width="25%" align="right" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello+friend+%5E-%5E;learn+more+about+me+%5C%2F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2685AE&center=true&width=435&lines=hello+friend+%5E-%5E;learn+more+about+me+%5C%2F" alt="Typing SVG" /></a>
 <br><br>
 <pre>
     📖 ece @ uoft
