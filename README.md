@@ -4,8 +4,8 @@
 <pre>
     📖 ece @ uoft
     💻 full-stack dev • embedded systems
-    🔨 python, c, c++, html/css, javascript
-    🛠 react, next.js, node.js, tailwind css, 
+    🔨 python, c, c++, html/css, javascript & node.js
+    🛠 react, next.js, tailwind css, flask
     🤖 pandas, numpy, opencv, scikit-learn 
 </pre>
 <p align="center">
