@@ -1,41 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi!%20I%27m%20Pierce%20&fontSize=70&fontAlign=51.5&fontAlignY=38&fontColor=ffffff"/>
-</p>
-
-### About Me
-I'm a first-year Computer Engineering student at the University of Toronto, interested in building meaningful tools that help people in their daily lives
-
-### What I'm Working On
-- Learning more about web development
-- Diving into machine learning with **PyTorch**
-
-## Tech Stack
-
-<table><tr><td valign="top" width="50%">
-
-<h4 align="center">Languages</h4>
-<div align="center" style="margin-top:-10px;">
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" />
-</div>
-
-</td><td valign="top" width="50%">
-
-<h4 align="center">Developer Tools</h4>
-<div align="center" style="margin-top:-10px;">
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-
-</div>
-
-</td></tr></table>
-
-<p align="center" style="margin-top:-5px;">
-  <img src="https://skillicons.dev/icons?i=embeddedc" height="45" />
-</p>
-
-<p align="center" style="margin-top: -40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=160&section=footer"/>
-</p>
+<div align="center">
+<img src="https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-110834/Comets-Your-Name-Anime.jpg" width="25%" align="right" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello+friend+%5E-%5E;learn+more+about+me+%5C%2F" alt="Typing SVG" /></a>
+<br><br>
+<pre>
+    📖 ece @ uoft
+    💻 full-stack dev • embedded systems
+    🔨 python, c, c++, html/css, javascript
+    🛠 react, next.js, node.js, tailwind css, 
+    🤖 pandas, numpy, opencv, scikit-learn 
+</pre>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" height="40" />
+<br><br>
