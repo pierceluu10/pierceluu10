@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://image2url.com/r2/default/images/1771964726830-ee62d89b-c3e6-4871-89ab-912869d4ceae.png" width="20%" align="right" />
+<img src="![Alt text](IMAGE_7362.png)" width="20%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=2685AE&center=true&width=435&lines=hello+friend%2C+my+name+is+pierce+%5E-%5E;learn+more+about+me!!+%5C%2F" alt="Typing SVG" /></a>
 <pre>
     📖 ece @ uoft
