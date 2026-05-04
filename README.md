@@ -4,10 +4,10 @@
 <pre>
     📖 ece @ uoft
     💻 ml • mlops • full-stack dev
-    🔨 python, c, c++, javascript & node.js, typescript
-    🛠 react, next.js, express.js, tailwind css, fastapi
+    🔨 python, c, javascript, typescript
+    🛠 react, next.js, express.js, fastapi
     🤖 pandas, numpy, opencv, scikit-learn, pytorch
-    ♾️ docker, kubernetes, gh actions, aws
+    ♾️ docker, kubernetes, gh actions, aws, azure
 </pre>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" height="40" />
