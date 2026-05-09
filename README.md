@@ -6,7 +6,7 @@
     💻 ml • mlops • full-stack dev
     🔨 python, c, javascript, typescript
     🛠 react, next.js, express.js, fastapi
-    🤖 pandas, numpy, opencv, scikit-learn, pytorch
+    🤖 pandas, numpy, opencv, scikit-learn, pytorch, langchain
     ♾️ docker, kubernetes, gh actions, aws, azure
 </pre>
 <p align="center">
