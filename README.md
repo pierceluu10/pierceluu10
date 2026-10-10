@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=200&center=true&vCenter=true&width=435&lines=hi!+i'm+pierce;learn+more+about+me+%5C%2F" alt="Typing SVG" /></a>
 <pre>
     📖 second-year comp eng @ uoft
-    💻 embedded • backend/infra • ml
+    💻 embedded • backend/infra
     🔨 python, c/++, javascript, typescript, sql
     🛠 node.js, express.js, fastapi
     ♾️ docker, kubernetes, aws
